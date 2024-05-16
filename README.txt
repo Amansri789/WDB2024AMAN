@@ -1,2 +1,2 @@
 # WDB2024AMAN
-Web Development Bootcamp 2024
+Web Development Bootcamp 2024.
