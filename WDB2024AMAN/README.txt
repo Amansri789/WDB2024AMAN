@@ -58,4 +58,18 @@ Accomplishments:
             005 [Project] Birthday Invite
             005 3.4-Birthday-Invite-Project      
   
+   25/05/24
 
+        04 - Multi-Page Websites
+
+            001 4.0-File-Paths   
+            001 Computer File Paths
+            002 4.1-Webpages   
+            002 What are Webpages
+            003 The HTML Boilerplate
+            004 [Project] Portfolio Website
+            004 4.3-HTML-Portfolio-Project
+            005 GitHub   
+            005 How to Host Your Website for Free with GitHub
+            006 Introduction to Capstone Projects
+            007 Instructions for Capstone Project 1 - Online Resume
