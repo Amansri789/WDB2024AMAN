@@ -74,7 +74,7 @@ Accomplishments:
             006 Introduction to Capstone Projects
             007 Instructions for Capstone Project 1 - Online Resume
 
-     26/05/24         
+   26/05/24         
 
      05 -  Introduction to CSS  
 
@@ -106,3 +106,12 @@ Accomplishments:
            004 7.3-[Project] CSS Flag Project
            005 7.4-tips from angela-nothing easy is worth doing
     
+   27/05/2024
+   
+           08 - advanced CSS
+           
+           001 8.0-CSS Display
+           002 8.1-CSS float
+           003 8.2-How to create responsiveness website?
+           004 8.3-Media Query
+           005 8.4-[Project] Web Design Agency Project.    
