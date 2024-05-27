@@ -1,0 +1,30 @@
+/* Write your code here: */
+/* Group */
+h1{
+    color: chocolate;
+}
+h2 {
+  color: deepskyblue;
+}
+
+/* Child */
+.box > p {
+  color: firebrick;
+  font-size: 30px;
+}
+
+/* Descendent */
+.box li {
+  color: blue;
+  font-size: 20px;
+}
+
+/* Chained */
+li.done {
+  color: green;
+}
+
+/* Multiple Combiners */
+ul p.done {
+  font-size: 2rem;
+}

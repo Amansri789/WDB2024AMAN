@@ -1,0 +1,20 @@
+/* Don't change the existing CSS. */
+#outer-box {
+  background-color: rgba(206, 109, 182, 0.295);
+}
+.box {
+  background-color: rgb(85, 166, 213);
+  padding: 10px;
+}
+.inner-box {
+  background-color: rgb(169, 99, 99);
+}
+
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+.white-text {
+  color: white;
+}
