@@ -140,4 +140,37 @@ Accomplishments:
         001 11.1-What is Bootstrap?
         002 11.2-Bootstrap Layout
         003 11.3-Bootstrap Components
-        004 11.4-[Project] TinDog Startup Website  Project      
+        004 11.4-[Project] TinDog Startup Website  Project   
+
+        02/06/2024
+         * - CAPSTONE Project
+         001-*.1- Introduction to Capstone Projects
+
+ 05/06/2024
+         
+         12 - Introduction to Javascript
+
+            001-1.1-Introduction to Javascript
+            002-1.2-Javascript Alerts - Adding Behaviour to Websites
+            003-1.3-Data Types
+            004-1.4-Javascript Variables
+            005-1.5- Javascript String [Concatenation,length,slicing,cases]
+            006-1.6-JavaScript operators & expression.
+            007-1.7-Javascript Functions
+            008-1.8-exercise[ The Karel Robot]
+            009-1.9-exercise[Life in Weeks]
+            010-10.1-Create a BMI Calculator using JavaScript.
+
+
+         13 - Intermediate JavaScript
+
+            001-13.1-Random Number Generation in Javascript: Building a Love Calculator
+             002-13.2-Control Statements: Using If-Else Conditionals & Logic
+             003-13.3-Comparators and Equality
+             004-13.4-Combining Comparators
+             005-13.5-BMI Calculator Advanced (IF/ELSE)
+             006-13.6-Introducing the Leap Year Code Challenge
+             007-13.7-Adding Elements and Intermediate Array Techniques
+             008-13.8-Control Statements: While Loops
+             009-13.9-Control Statements: For Loops
+             010-13.10Introducing the Fibonacci Code Challenge   
