@@ -160,7 +160,8 @@ Accomplishments:
             008-1.8-exercise[ The Karel Robot]
             009-1.9-exercise[Life in Weeks]
             010-10.1-Create a BMI Calculator using JavaScript.
-
+  
+   06/06/2024
 
          13 - Intermediate JavaScript
 
@@ -173,4 +174,7 @@ Accomplishments:
              007-13.7-Adding Elements and Intermediate Array Techniques
              008-13.8-Control Statements: While Loops
              009-13.9-Control Statements: For Loops
-             010-13.10Introducing the Fibonacci Code Challenge   
+             010-13.10Introducing the Fibonacci Code Challenge
+
+08/08/2024
+         14 - The Document Object Model [DOM]       
